@@ -1,4 +1,4 @@
-# brick_attack
+# Brick Attack
 
 A 2D Brick Breaker game.
 
